@@ -131,6 +131,8 @@ The field of UX/UI design is also experiencing a significant impact from AI, wit
 
 LangChain provide developers with the tools to build sophisticated applications with LLMs, including managing and chaining prompts for complex workflows.
 
+- [OpenPaw](https://github.com/daxaur/openpaw): Open-source CLI tool (npx pawmode) that turns Claude Code into a personal assistant with 38 skills including email, calendar, Spotify, smart home, Slack, GitHub, and more. No daemon, no cloud, MIT licensed.
+
 
 
 ## Prompt Engineering Best Practices for Vibe Coding
@@ -215,4 +217,3 @@ Review the generated code and provide feedback for further improvements.
 28.  [https://www.zdnet.com/article/what-is-ai-vibe-coding-its-all-the-rage-but-its-not-for-everyone-heres-why/](https://www.zdnet.com/article/what-is-ai-vibe-coding-its-all-the-rage-but-its-not-for-everyone-heres-why/)
 29.  [https://medium.com/@askeric/vibe-coding-is-reshaping-the-way-we-build-learn-and-innovate-18da4f461233](https://medium.com/@askeric/vibe-coding-is-reshaping-the-way-we-build-learn-and-innovate-18da4f461233)
 30.  [https://www.poised.com/blog/the-rise-of-vibe-coding-when-ai-does-the-heavy-lifting](https://www.poised.com/blog/the-rise-of-vibe-coding-when-ai-does-the-heavy-lifting)
-
